@@ -14,3 +14,4 @@ regression algorithm.ipynb
 Machine learning tutorial on <a href = https://pythonprogramming.net/machine-learning-tutorial-python-introduction/> programming.net </a>
 
 Introduction to Machine learning by Andreas C.Muller and Sarah Guido
+
